@@ -31,6 +31,11 @@ Given a large dataset of images, the system allows users to retrieve the most vi
 - Run `setup.py` once to generate all necessary output files for the image search.
 - Run `main.py` with an image—either from the dataset or your own—to find and display the most similar images.
 
+## 🖼️ Examples
+
+<img width="500" height="237" alt="Screenshot 2025-07-29 194501" src="https://github.com/user-attachments/assets/2f781725-f4e5-416c-b2d5-3bef7ddb2761" />
+<img width="500" height="237" alt="Screenshot 2025-07-29 194702" src="https://github.com/user-attachments/assets/014f85a2-f3ad-4a87-9177-0b81c0f611ac" />
+
 ## 📖 Citation
 Based on the algorithm presented in:
 
